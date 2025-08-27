@@ -203,14 +203,3 @@ bun start           # Start production server
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- OpenAI for providing the AI API
-- The React and Express.js communities
-- shadcn/ui for beautiful UI components
-- Tailwind CSS for the utility-first CSS framework
-
----
-
-**Built with ❤️ using modern web technologies**
