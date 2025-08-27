@@ -72,7 +72,7 @@ A fully functional AI-powered chatbot built with a modern full-stack architectur
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:Thiago-miotti/AI-Powered-Chatbot.git
    cd Chatbot
    ```
 
